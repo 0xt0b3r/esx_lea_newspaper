@@ -1,7 +1,7 @@
 # esx_lea_newspaper
 
-Resource only works with [strong]ESX[/strong]
+Resource only works with <b>ESX</b>
 
 After using item we can see how many police officers, ems etc. are online.
 
-[img]https://i.imgur.com/5U5WcSW.png[/img]
+![alt text](https://i.imgur.com/5U5WcSW.png)
